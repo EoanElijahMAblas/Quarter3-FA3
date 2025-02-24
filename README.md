@@ -1,2 +1,3 @@
-# Quarter3-FA3
-Computer Science 3 FA 3
+- This is a Laboratory Activity on modules 9-10.
+- The topic/s covered in this activity is/are event handlers & math functions
+- https://github.com/EoanElijahMAblas/Quarter3-FA3
